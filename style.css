@@ -1,0 +1,65 @@
+body {
+    background-image: url(./img/photo-1516259762381-22954d7d3ad2.jpeg);
+    background-size: auto;
+}
+
+.definicoes{
+    color: rgb(141, 241, 27);
+    text-align: center;
+}
+
+.definicoes h2{
+    color: red;
+}
+
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 25px;
+    border-radius: 10px;
+    width: 50%;
+}
+
+.windows p{
+    color: cyan;
+    text-align: center;
+    font-size: 27px;
+    font-weight: bold;
+    
+}
+
+.windows img:hover{
+    transform: scale(1.05);
+    transition: 0.4s;
+
+}
+
+.linux p{
+    color: orange;
+    text-align: center;
+    font-size: 27px;
+    font-weight: bold;
+    
+}
+
+.linux img:hover{
+    transform: scale(1.05);
+    transition: 0.4s;
+
+}
+
+.macos p{
+    color: purple;
+    text-align: center;
+    font-size: 27px;
+    font-weight: bold;
+    
+}
+
+.macos img:hover{
+    transform: scale(1.05);
+    transition: 0.4s;
+
+}
+
